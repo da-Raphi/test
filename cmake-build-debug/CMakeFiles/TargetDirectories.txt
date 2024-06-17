@@ -1,0 +1,3 @@
+C:/HTL/1AHITN/SEW/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe.dir
+C:/HTL/1AHITN/SEW/TicTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HTL/1AHITN/SEW/TicTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
